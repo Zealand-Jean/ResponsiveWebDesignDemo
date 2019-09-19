@@ -1,12 +1,10 @@
 ﻿body {
 }
-
-
 .container {
     display: grid;
-    grid-template-columns: auto auto auto auto; /*Make 4 columns when browser window is 'normal'*/
+    grid-template-columns: auto auto auto auto;
     grid-gap: 30px;
-    background-color: #2196F3;
+    background-color: #808080;
     padding: 10px;
 }
 

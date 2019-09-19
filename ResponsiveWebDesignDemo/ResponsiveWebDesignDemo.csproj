@@ -71,6 +71,7 @@
     <Content Include="StyleSheet1.css" />
     <Content Include="StyleSheet2.css" />
     <Content Include="StyleSheet3.css" />
+    <Content Include="StyleSheet4.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
